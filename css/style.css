@@ -1,0 +1,33 @@
+<style>
+        @import url('https://fonts.googleapis.com/css2?family=Play&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+        body {
+            font-family: 'Raleway', sans-serif;
+        }
+
+        .navbar {
+            font-family: 'Play', sans-serif;
+            font-size: 15px;
+        }
+
+        .page-footer {
+            font-family: 'Play', sans-serif;
+        }
+
+        .page-footer #footer-copyright {
+            font-size: 15px;
+        }
+
+        .card-body {
+            height: 200px;
+        }
+
+        .home-work .card {
+            height: 300px;
+        }
+
+        .mdb-color.darken-2 {
+            background-color: #3f51b5 !important;
+        }
+    </style>
